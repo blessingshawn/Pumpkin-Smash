@@ -1,0 +1,82 @@
+{"frames": {
+    
+"stand_0000":
+{
+    "frame":{"x":53,"y":0,"w":24,"h":72},
+    "rotated":false,
+    "trimmed":false,
+    "spriteSourceSize":{"x":0,"y":0,"w":24,"h":72},
+    "sourceSize":{"w":24,"h":72},
+    "pivot": {"x":0.5,"y":0.5}
+},
+"walk_0000":
+{
+    "frame":{"x":147,"y":0,"w":35,"h":72},
+    "rotated":false,
+    "trimmed":false,
+    "spriteSourceSize":{"x":0,"y":0,"w":35,"h":72},
+    "sourceSize":{"w":35,"h":72},
+    "pivot": {"x":0.5,"y":0.5}    
+},
+"walk_0001":
+{
+    "frame":{"x":262,"y":5,"w":52,"h":67},
+    "rotated":false,
+    "trimmed":false,
+    "spriteSourceSize":{"x":0,"y":0,"w":52,"h":67},
+    "sourceSize":{"w":52,"h":67},
+    "pivot": {"x":0.5,"y":0.5}  
+},
+"walk_0002":
+{
+    "frame":{"x":382,"y":0,"w":35,"h":72},
+    "rotated":false,
+    "trimmed":false,
+    "spriteSourceSize":{"x":0,"y":0,"w":35,"h":72},
+    "sourceSize":{"w":35,"h":72},
+    "pivot": {"x":0.5,"y":0.5}  
+},
+"walk_0003":
+{
+    "frame":{"x":480,"y":5,"w":53,"h":67},
+    "rotated":false,
+    "trimmed":false,
+    "spriteSourceSize":{"x":0,"y":0,"w":53,"h":67},
+    "sourceSize":{"w":53,"h":67},
+    "pivot": {"x":0.5,"y":0.5}  
+},
+"jump_0000":
+{
+    "frame":{"x":289,"y":150,"w":23,"h":63},
+    "rotated":false,
+    "trimmed":false,
+    "spriteSourceSize":{"x":0,"y":0,"w":23,"h":63},
+    "sourceSize":{"w":23,"h":63},
+    "pivot": {"x":0.5,"y":0.5}  
+},
+"jump_0001":
+{
+    "frame":{"x":391,"y":137,"w":29,"h":73},
+    "rotated":false,
+    "trimmed":false,
+    "spriteSourceSize":{"x":0,"y":0,"w":29,"h":73},
+    "sourceSize":{"w":29,"h":73},
+    "pivot": {"x":0.5,"y":0.5}  
+},
+"jump_0002":
+{
+    "frame":{"x":495,"y":137,"w":38,"h":62},
+    "rotated":false,
+    "trimmed":false,
+    "spriteSourceSize":{"x":0,"y":0,"w":38,"h":62},
+    "sourceSize":{"w":38,"h":62},
+    "pivot": {"x":0.5,"y":0.5}  
+}},
+    "meta":{
+        "app":"https://www.leshylabs.com/apps/sstool/",
+        "version":"Leshy SpriteSheet Tool v0.8.4",
+        "image":"spritesheet.png",
+        "format": "RGBA8888",
+        "size":{"w":600,"h":214},
+        "scale":1}
+    }
